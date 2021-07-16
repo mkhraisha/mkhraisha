@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**mkhraisha/mkhraisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer working from Toronto, Canada.
 
-Here are some ideas to get you started:
+BIO:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lead Developer at Mavennet working on Neoflow, Metaltrail, VCAD, and more!
+- Active contributer to the W3C-CCG! Consider joining and lets have a chat.
+
+Interested in having a chat? Reach out on [LinkedIn](https://www.linkedin.com/in/mkhraishi/)
+
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkhraisha&theme=radical)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
