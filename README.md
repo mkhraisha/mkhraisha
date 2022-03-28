@@ -9,6 +9,3 @@ BIO:
 
 Interested in having a chat? Reach out on [LinkedIn](https://www.linkedin.com/in/mkhraishi/)
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkhraisha&theme=radical)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
